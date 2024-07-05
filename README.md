@@ -23,7 +23,7 @@ git clone https://github.com/your-username/dictionary-search.git
 2. Navigate to the project directory:
 cd dictionary-search
 
-3. Ensure your dictionary JSON file is located at `C:\Users\Aston Wanzi\Desktop\dictionary\dictionary and data\dictionary.json` or update the `file_path` variable in the `main` function with the correct path to your dictionary JSON file.
+3. Ensure your dictionary JSON file is located at dictionary.json` or update the `file_path` variable in the `main` function with the correct path to your dictionary JSON file.
 
 4. Run the program:
 
